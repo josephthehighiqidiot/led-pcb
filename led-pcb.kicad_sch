@@ -10126,16 +10126,16 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small_US")
-		(at 92.71 20.32 270)
+		(at 92.71 20.32 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1b944608-4cd3-48ca-956d-9d623dd711ef")
 		(property "Reference" "C2"
-			(at 92.583 13.97 90)
+			(at 92.837 13.97 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10143,7 +10143,7 @@
 			)
 		)
 		(property "Value" "C_Small_US 1uF"
-			(at 92.583 16.51 90)
+			(at 92.837 16.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11831,7 +11831,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 94.234 162.814 90)
 			(effects
 				(font
@@ -13356,7 +13356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 94.234 137.414 90)
 			(effects
 				(font
@@ -14877,7 +14877,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 94.234 127.254 90)
 			(effects
 				(font
@@ -14945,7 +14945,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 94.234 142.494 90)
 			(effects
 				(font
@@ -15924,7 +15924,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 94.234 132.334 90)
 			(effects
 				(font
@@ -16069,7 +16069,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 94.234 152.654 90)
 			(effects
 				(font
@@ -16214,7 +16214,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 94.234 147.574 90)
 			(effects
 				(font
@@ -17146,10 +17146,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "2934dc4b-2ca5-47f4-9373-c27b43ffad12")
+			(uuid "2934dc4b-2ca5-47f4-9373-c27b43ffad13")
 		)
 		(pin "1"
-			(uuid "898bf50d-b447-4baa-8d7d-d2bdb22418fe")
+			(uuid "898bf50d-b447-4baa-8d7d-d2bdb22418ff")
 		)
 		(instances
 			(project ""
@@ -19799,7 +19799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 94.234 157.734 90)
 			(effects
 				(font
